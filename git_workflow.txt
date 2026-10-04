@@ -1,0 +1,4 @@
+Edit: Modify files in your local working directory. 
+Add: Run git add <file> to move specific changes into the staging area (index), preparing them for the next snapshot. 
+Commit: Run git commit -m "message" to capture the staged changes as a permanent snapshot in your local repository history. 
+Push: Run git push origin <branch> to upload your local commits to the remote repository, making them visible to collaborators.
